@@ -8,7 +8,7 @@ var spawn = require('child_process').spawn;
 var userHome = utils.getUserHome();
 
 // Components Path (for cloning the data)
-var componentsPath = path.resolve(userHome, '.component-ssh-repos');
+var componentsPath = path.resolve(userHome, '.component-priv-repos');
 
 // Ensure the components path exists
 utils.ensureDir(componentsPath);

@@ -3,7 +3,6 @@
   "description": "Proxy installs from ssh component",
   "version": "0.0.1",
   "dependencies": {
-    "component-builder": "*",
     "component": "*",
     "mime": "*",
     "express": "*"

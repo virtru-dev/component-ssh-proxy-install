@@ -5,6 +5,7 @@
   "dependencies": {
     "component": "*",
     "mime": "*",
+    "mkdirp": "*",
     "express": "*"
   },
   "keywords": [
